@@ -28,7 +28,7 @@ export const injected = new InjectedConnector({
   supportedChainIds: [1001],
 })
 
-export const bscConnector = new BscConnector({ supportedChainIds: [56] })
+export const bscConnector = new BscConnector({ supportedChainIds: [1001] })
 
 // mainnet only
 export const walletconnect = new WalletConnectConnector({

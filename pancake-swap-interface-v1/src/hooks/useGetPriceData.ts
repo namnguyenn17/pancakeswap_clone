@@ -17,6 +17,7 @@ const api = 'https://api.pancakeswap.info/api/tokens'
 const useGetPriceData = () => {
   const [data, setData] = useState<ApiResponse | null>(null)
 
+  console.log("useGetPriceData: ", data)
   useEffect(() => {
     const fetchData = async () => {
       try {

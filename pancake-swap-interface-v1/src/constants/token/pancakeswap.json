@@ -19,10 +19,10 @@
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
     },
     {
-      "name": "Bakery Token",
-      "symbol": "BAKE",
-      "address": "0xe02df9e3e622debdd69fb838bb799e3f168902c5",
-      "chainId": 56,
+      "name": "Floppy Token",
+      "symbol": "FLP",
+      "address": "0xe9ABFffBA5B35f8519091814193ac230Daa1aEBb",
+      "chainId": 1001,
       "decimals": 18,
       "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe02df9e3e622debdd69fb838bb799e3f168902c5.png"
     }
